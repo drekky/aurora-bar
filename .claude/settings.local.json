@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(quickshell:*)",
+      "Bash(pacman:*)",
+      "Bash(paru -Qi:*)",
+      "Bash(curl:*)",
+      "WebSearch",
+      "WebFetch(domain:quickshell.org)",
+      "Bash(command:*)",
+      "Bash(command -v:*)",
+      "Bash(command -v wl-copy:*)",
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "WebFetch(domain:deepwiki.com)",
+      "Bash(xargs file:*)",
+      "Bash(cat:*)",
+      "Bash(wpctl get-volume:*)",
+      "Bash(nmcli:*)"
+    ]
+  }
+}
